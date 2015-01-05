@@ -6,7 +6,9 @@
 //  Copyright (c) 2015 ftk. All rights reserved.
 //
 
+
 import Cocoa
+
 
 class ViewController: NSViewController {
 
@@ -21,7 +23,5 @@ class ViewController: NSViewController {
         // Update the view, if already loaded.
         }
     }
-
-
 }
 
